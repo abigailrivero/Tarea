@@ -1,0 +1,10 @@
+# Ignorar archivos generados por Android Studio y Gradle
+.gradle/
+local.properties
+/.idea
+*.iml
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
